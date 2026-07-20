@@ -1,4 +1,4 @@
-package sn.edu.ucak.dar;
+package sn.edu.ucak.dar.endpoints;
 
 import jakarta.inject.Inject;
 import jakarta.persistence.EntityManager;
